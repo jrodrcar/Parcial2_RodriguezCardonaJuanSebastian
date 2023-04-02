@@ -9,6 +9,7 @@ namespace Parcial2_RodriguezCardonaJuanSebastian.DAL.Entities
         [Display(Name = "Numero")]
         public int Id { get; set; }
 
+
         public DateTime? UseData { get; set; }
         public bool IsUsed { get; set; }
 
