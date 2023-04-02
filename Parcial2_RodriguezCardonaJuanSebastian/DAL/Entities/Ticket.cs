@@ -9,8 +9,10 @@ namespace Parcial2_RodriguezCardonaJuanSebastian.DAL.Entities
         [Display(Name = "Numero")]
         public int Id { get; set; }
 
-
+        [Display(Name = "Fecha de uso")]
         public DateTime? UseData { get; set; }
+
+        [Display(Name = "Usado")]
         public bool IsUsed { get; set; }
 
         [Display(Name = "Entrada")]
