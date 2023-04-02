@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using Parcial2_RodriguezCardonaJuanSebastian.Models;
+using Parcial2_RodriguezCardonaJuanSebastian.DAL;
 
 var builder = WebApplication.CreateBuilder(args);
 

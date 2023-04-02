@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Parcial2_RodriguezCardonaJuanSebastian.Models.DAL.Entities
+namespace Parcial2_RodriguezCardonaJuanSebastian.DAL.Entities
 {
     public class ticket
     {

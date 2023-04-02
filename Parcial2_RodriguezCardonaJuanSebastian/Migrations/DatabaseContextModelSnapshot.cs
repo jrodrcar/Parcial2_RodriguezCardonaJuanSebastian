@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using Parcial2_RodriguezCardonaJuanSebastian.Models;
+using Parcial2_RodriguezCardonaJuanSebastian.DAL;
 
 #nullable disable
 
