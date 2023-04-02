@@ -12,5 +12,7 @@ namespace Parcial2_RodriguezCardonaJuanSebastian.Models
         }
 
         public DbSet<ticket> tickets { get; set; }
+
+        //
     }
 }
